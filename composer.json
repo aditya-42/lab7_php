@@ -1,0 +1,17 @@
+{
+    "name": "adity/lab7_php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aditya Purohit",
+            "email": "aditya.s.purohit@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.7"
+    }
+}
